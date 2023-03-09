@@ -51,15 +51,6 @@
                 decimal y = Convert.ToDecimal(Console.ReadLine());
                 decimal z = 0;
 
-                switch (op)
-                {
-                    case 1: z = x + y; break;
-                    case 2: z = y - x; break;
-                    case 3: z = x * y; break;
-                    case 4: z = y / x; break;
-                    default: break;
-                }
-
                 if (op == 1)
                 {
                     z = x + y;

@@ -1,4 +1,4 @@
-﻿namespace ListaExercicio1.Exercicio14
+﻿namespace ListaExercicios1.Exercicio14
 {
     internal class Program
     {
